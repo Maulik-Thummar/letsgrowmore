@@ -1,6 +1,6 @@
 # Prediction using Decision Tree Algorithm
 
-![Decision Tree](decision_tree_image.jpg) <!-- Replace with an image related to your project -->
+
 
 ## Project Overview
 
